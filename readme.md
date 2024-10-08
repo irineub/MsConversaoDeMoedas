@@ -9,7 +9,7 @@ Este microserviço permite converter valores de uma moeda para outra usando a AP
 ## Instalação
 Clone o repositório:
 
-- git clone <URL_DO_REPOSITORIO>
+- git clone https://github.com/irineub/MsConversaoDeMoedas.git
 
 ## Navegue até o diretório do projeto:
 
